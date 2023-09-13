@@ -1,1 +1,5 @@
 # CDAC-Assignment_04
+1.Write a program that extracts part of the given string from the specified position. For example, if the sting is "Working with strings is fun", then if from position 4, 4 characters are to be extracted then the program should return string as "king". If the number of characters to be extracted is 0 then the program should extract entire string from the specified position.
+2.Write a program that converts a string like "124" to an integer 124.
+3.Write a program that uses an array of pointers to strings str[ ]. Receive two strings str1 and str2 and check if str1 is embedded in any of the strings in str[ ]. If str1 is found, then replace it with str2. char *str[ ] = { "We will teach you how to...", "Move a mountain", "Level a building", "Erase the past", "Make a million", "...all through C!" } ; For example if str1 contains "mountain" and str2 contains "car", then the second string in str should get changed to "Move a car".
+4.Write a program to reverse the strings stored in the following array of pointers to strings: char *s[ ] = { "To err is human...", "But to really mess things up...", "One needs to know C!!" } ;
